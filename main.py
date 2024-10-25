@@ -6,4 +6,3 @@ def get_baza(arr):
             lng += 1
             sm += int(a)
     return lng, sm
-
